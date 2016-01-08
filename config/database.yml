@@ -14,7 +14,9 @@ default: &default
 
 development:
   <<: *default
-  database: service_development
+  database: d5btvne0sssc3m
+  username: xugsmfmwirdybb
+  password: k4F_lzQ5gFZdka7jkSSmlpqjN0
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
